@@ -1,7 +1,7 @@
 <img src="https://cdn.syncfusion.com/content/images/flutter-widgets-banner-1.png"/>
 
 # Syncfusion Flutter Widgets
- 
+  
 Syncfusion Flutter widgets libraries include high-quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base. Please find the [supported platforms](https://help.syncfusion.com/flutter/system-requirements#supported-platforms) for our Flutter widgets.
 
 **Disclaimer:** This is a commercial package. To use our packages, you need to have either the Syncfusion Commercial License or Syncfusion Community license. For more details, please check the [LICENSE](https://github.com/syncfusion/flutter-examples/blob/master/LICENSE) file.
